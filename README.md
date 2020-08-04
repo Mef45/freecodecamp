@@ -3,9 +3,9 @@
 My own solutions for [freeCodeCamp Lessons](https://www.freecodecamp.org/learn/).
 
 ### Basic Algorithm Scripting
-* [ ] Convert Celsius to Fahrenheit
-* [ ] Reverse a String
-* [ ] Factorialize a Number
+* [x] Convert Celsius to Fahrenheit
+* [x] Reverse a String
+* [x] Factorialize a Number
 * [ ] Find the Longest Word in a String
 * [ ] Return Largest Numbers in Arrays
 * [ ] Confirm the Ending
