@@ -6,7 +6,7 @@ My own solutions for [freeCodeCamp Lessons](https://www.freecodecamp.org/learn/)
 * [x] Convert Celsius to Fahrenheit
 * [x] Reverse a String
 * [x] Factorialize a Number
-* [ ] Find the Longest Word in a String
+* [x] Find the Longest Word in a String
 * [ ] Return Largest Numbers in Arrays
 * [ ] Confirm the Ending
 * [ ] Repeat a String Repeat a String
