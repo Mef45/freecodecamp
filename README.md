@@ -11,8 +11,8 @@ My own solutions for [freeCodeCamp Lessons](https://www.freecodecamp.org/learn/)
 * [x] Confirm the Ending
 * [x] Repeat a String Repeat a String
 * [x] Truncate a String
-* [ ] Finders Keepers
-* [ ] Boo who
+* [x] Finders Keepers
+* [x] Boo who
 * [ ] Title Case a Sentence
 * [ ] Slice and Splice
 * [ ] Falsy Bouncer
