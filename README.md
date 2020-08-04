@@ -7,10 +7,10 @@ My own solutions for [freeCodeCamp Lessons](https://www.freecodecamp.org/learn/)
 * [x] Reverse a String
 * [x] Factorialize a Number
 * [x] Find the Longest Word in a String
-* [ ] Return Largest Numbers in Arrays
-* [ ] Confirm the Ending
-* [ ] Repeat a String Repeat a String
-* [ ] Truncate a String
+* [x] Return Largest Numbers in Arrays
+* [x] Confirm the Ending
+* [x] Repeat a String Repeat a String
+* [x] Truncate a String
 * [ ] Finders Keepers
 * [ ] Boo who
 * [ ] Title Case a Sentence
