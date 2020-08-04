@@ -14,7 +14,7 @@ My own solutions for [freeCodeCamp Lessons](https://www.freecodecamp.org/learn/)
 * [x] Finders Keepers
 * [x] Boo who
 * [x] Title Case a Sentence
-* [ ] Slice and Splice
+* [x] Slice and Splice
 * [ ] Falsy Bouncer
 * [ ] Where do I Belong
 * [ ] Mutations
