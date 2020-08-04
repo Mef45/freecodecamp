@@ -20,7 +20,7 @@ My own solutions for [freeCodeCamp Lessons](https://www.freecodecamp.org/learn/)
 * [ ] Mutations
 * [ ] Chunky Monkey
 
-### Intermediate Algorithm Scripting Challenges
+### Intermediate Algorithm Scripting
 * [ ] Sum All Numbers in a Range
 * [ ] Diff Two Arrays
 * [ ] Seek and Destroy
