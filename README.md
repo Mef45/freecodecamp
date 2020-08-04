@@ -13,7 +13,7 @@ My own solutions for [freeCodeCamp Lessons](https://www.freecodecamp.org/learn/)
 * [x] Truncate a String
 * [x] Finders Keepers
 * [x] Boo who
-* [ ] Title Case a Sentence
+* [x] Title Case a Sentence
 * [ ] Slice and Splice
 * [ ] Falsy Bouncer
 * [ ] Where do I Belong
