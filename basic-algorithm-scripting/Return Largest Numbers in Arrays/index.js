@@ -8,4 +8,4 @@ function largestOfFour(arr) {
     return largest;
 }
 
-module.exports = {largestOfFour};
+module.exports = { largestOfFour };

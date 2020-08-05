@@ -7,4 +7,4 @@ function repeatStringNumTimes(str, num) {
     return result;
 }
 
-module.exports = {repeatStringNumTimes};
+module.exports = { repeatStringNumTimes };

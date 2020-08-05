@@ -1,5 +1,5 @@
 function findElement(arr, func) {
-    return arr.find(el => func(el));
+    return arr.find((el) => func(el));
 }
 
-module.exports = {findElement};
+module.exports = { findElement };

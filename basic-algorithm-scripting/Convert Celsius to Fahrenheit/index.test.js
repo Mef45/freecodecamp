@@ -1,7 +1,7 @@
 const { expect } = require('chai');
 const { convertToF } = require('./index');
 
-describe('celsiusToFahrenheit', function() {
+describe('celsiusToFahrenheit', function () {
     it('convertToF(0) should return a number', () => {
         const fahrenheit = convertToF(0);
 

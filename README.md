@@ -15,10 +15,10 @@ My own solutions for [freeCodeCamp Lessons](https://www.freecodecamp.org/learn/)
 * [x] Boo who
 * [x] Title Case a Sentence
 * [x] Slice and Splice
-* [ ] Falsy Bouncer
-* [ ] Where do I Belong
-* [ ] Mutations
-* [ ] Chunky Monkey
+* [x] Falsy Bouncer
+* [x] Where do I Belong
+* [x] Mutations
+* [x] Chunky Monkey
 
 ### Intermediate Algorithm Scripting
 * [ ] Sum All Numbers in a Range

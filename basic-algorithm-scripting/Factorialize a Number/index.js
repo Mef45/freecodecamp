@@ -7,4 +7,4 @@ function factorialize(num) {
     return factorial;
 }
 
-module.exports = {factorialize};
+module.exports = { factorialize };

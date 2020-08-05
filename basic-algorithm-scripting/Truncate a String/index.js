@@ -4,4 +4,4 @@ function truncateString(str, num) {
     return `${str.substring(0, num)}...`;
 }
 
-module.exports = {truncateString};
+module.exports = { truncateString };

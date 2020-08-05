@@ -1,7 +1,7 @@
 const { expect } = require('chai');
 const { booWho } = require('./index');
 
-describe('findElebooWhoment', function() {
+describe('booWho', function () {
     it('booWho(true) should return true.', () => {
         expect(booWho(true)).to.be.true;
     });
@@ -19,7 +19,7 @@ describe('findElebooWhoment', function() {
     });
 
     it('booWho({ "a": 1 }) should return false.', () => {
-        expect(booWho({ "a": 1 })).to.be.false;
+        expect(booWho({ a: 1 })).to.be.false;
     });
 
     it('booWho(1) should return false.', () => {
@@ -31,14 +31,14 @@ describe('findElebooWhoment', function() {
     });
 
     it('booWho("a") should return false.', () => {
-        expect(booWho("a")).to.be.false;
+        expect(booWho('a')).to.be.false;
     });
 
     it('booWho("true") should return false.', () => {
-        expect(booWho("true")).to.be.false;
+        expect(booWho('true')).to.be.false;
     });
 
     it('booWho("false") should return false.', () => {
-        expect(booWho("false")).to.be.false;
+        expect(booWho('false')).to.be.false;
     });
 });

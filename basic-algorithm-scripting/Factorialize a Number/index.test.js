@@ -1,7 +1,7 @@
 const { expect } = require('chai');
 const { factorialize } = require('./index');
 
-describe('factorializeNumber', function() {
+describe('factorializeNumber', function () {
     it('factorialize(5) should return a number.', () => {
         const factorial = factorialize(5);
 
