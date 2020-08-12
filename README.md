@@ -21,8 +21,8 @@ My own solutions for [freeCodeCamp Lessons](https://www.freecodecamp.org/learn/)
 * [x] Chunky Monkey
 
 ### Intermediate Algorithm Scripting
-* [ ] Sum All Numbers in a Range
-* [ ] Diff Two Arrays
+* [x] Sum All Numbers in a Range
+* [x] Diff Two Arrays
 * [ ] Seek and Destroy
 * [ ] Wherefore art thou
 * [ ] Spinal Tap Case
